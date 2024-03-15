@@ -1,0 +1,4 @@
+baseURL = "http://angular-maps.com/"
+languageCode = "en-us"
+title = "Angular Google Maps Components"
+theme = "angular-google-maps"
