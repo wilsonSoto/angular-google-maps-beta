@@ -36,6 +36,7 @@
       ]
     },
     "types": [
+      "jest",
       "googlemaps"
     ]
   }
